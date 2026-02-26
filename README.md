@@ -1,2 +1,4 @@
 # python_pro687
-## Este repositorio pertenece a: TU NOMBRE COMPLETO
+## Este repositorio pertenece a: Joan
+
+
